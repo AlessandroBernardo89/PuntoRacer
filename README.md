@@ -11,7 +11,7 @@
 ## ✅ Checklist progetto
 
 ### 🔧 Modifiche principali
-- [x] Alleggerimento abitacolo
+- [ ] Alleggerimento abitacolo
 - [ ] Rollbar saldato o imbullonato
 - [ ] Sedili e cinture racing
 - [ ] Impianto frenante migliorato
