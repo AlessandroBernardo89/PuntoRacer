@@ -6,7 +6,7 @@
 - Disegnato bozzetto top-view: posizioni ipotetiche di batteria, serbatoio e rollbar
 - Avviata versione cartacea + file Word del diario
 
-📎 [Apri il micro-calendario PDF](documenti/Micro-Calendario_PuntoRacer.pdf)
+📎📎 [Apri il micro-calendario PDF docs/Micro-Calendario_PuntoRacer.pdf
 
 ---
 
