@@ -6,6 +6,8 @@
 - Disegnato bozzetto top-view: posizioni ipotetiche di batteria, serbatoio e rollbar
 - Avviata versione cartacea + file Word del diario
 
+📎 [Apri il micro-calendario PDF](documenti/Micro-Calendario_PuntoRacer.pdf)
+
 ---
 
 ## 📅 Giorno 2 – 17 giugno 2025
