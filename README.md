@@ -8,6 +8,29 @@
 
 📎 [Apri il micro-calendario PDF](docs/Micro-Calendario_PuntoRacer.pdf)
 
+## ✅ Checklist progetto
+
+### 🔧 Modifiche principali
+- [ ] Alleggerimento abitacolo
+- [ ] Rollbar saldato o imbullonato
+- [ ] Sedili e cinture racing
+- [ ] Impianto frenante migliorato
+- [ ] Sospensioni sportive
+- [ ] Impianto elettrico semplificato
+
+### 📄 Documenti da raccogliere
+- [ ] Scheda tecnica rollbar
+- [ ] Scheda serbatoio racing
+- [ ] Scheda centralina aftermarket
+
+### 📦 Componenti da acquistare o recuperare
+- [ ] Batteria leggera
+- [ ] Estintore omologato
+- [ ] Data logger (opzionale)
+
+### 🧠 Idee future
+- [ ] Studio baricentro e distribuzione pesi
+- [ ] Frenata sdoppiata con ripartitore
 
 ---
 
