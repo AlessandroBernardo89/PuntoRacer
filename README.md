@@ -74,8 +74,13 @@
 
 ## 💡 Idee future
 
-- Telemetria base con logger (tipo Aim Solo DL)
-- Canali YouTube/Instagram dedicati?
-- Verniciatura racing a due colori?
+Data 25/Giugno/2025
 
+##Appunti preliminari
+     #Progetto PuntoRacer
+#Fase 1: -Riepilogo-
+-Trasformare una Punto 188 in auto da corsa
+Analisi componenti
+- Motre V6 (derivazione AlfaRomeo)
+- Cambio Sequenziale con paddle al volante
 
